@@ -32,24 +32,24 @@
 
 | 開催月 | テーマ |
 | :-- | :-- |
-| 2026/10 |     10/23(17:30-18:30)<br>[FMS(the Future of Memory and Storage)](https://www.snia.org/news_events/newsroom/highlights-next-generation-memory-ai-and-storage-standards-fms-2026)     |
-| 2026/9 | [Revisiting Memory Swapping for Big-Memory Applications ](https://dl.acm.org/doi/10.1145/3712031.3712332 ) |
+| 2026/10 |     10/23(17:30-18:30)<br>FMS(the Future of Memory and Storage)     |
+| 2026/9 | Revisiting Memory Swapping for Big-Memory Applications |
 | 2026/8 | 夏季休業に伴う非開催 |
-| 2026/7 | [VLSI（Symposium on VLSI Technology and Circuits）](https://www.vlsisymposium.org/)の報告 <br>[IMW（IEEE International Memory Workshop）](https://ewh.ieee.org/soc/eds/imw/index.htm)の報告 |
-| 2026/6 | [光インターフェースSSD](https://www.kioxia.com/content/dam/kioxia/ja-jp/business/ssd/asset/SNIA-seminar-202602.pdf) ～次世代グリーンデータセンターを構成する基幹技術～ |
-| 2026/5 | [Linux Plumbers Conference 2025](https://lpc.events/event/19/)の報告 |
+| 2026/7 | VLSI（Symposium on VLSI Technology and Circuits）の報告 <br>IMW（IEEE International Memory Workshop）の報告 |
+| 2026/6 | 光インターフェースSSD ～次世代グリーンデータセンターを構成する基幹技術～ |
+| 2026/5 | Linux Plumbers Conference 2025の報告 |
 | 2026/4 | 年間計画検討（Part2） |
 | 2026/3 | 年間計画検討（Part1） |
 | 2026/2 | CXLエミュレーション環境の使い方について |
 | 2026/1 | 冬季休業に伴う非開催 |
-| 2025/12 | [FMS（the Future of Memory and Storage）](https://www.snia.org/fms)の報告 |
-| 2025/11 | [Vast Data](https://www.vastdata.com/platform/overview)の講演 <br>[Video Search and Summarization（VSS）](https://docs.nvidia.com/vss/latest/)の講演 |
+| 2025/12 | FMS（the Future of Memory and Storage）の報告 |
+| 2025/11 | Vast Dataの講演 <br>Video Search and Summarization（VSS）の講演 |
 | 2025/10 | VLSI（Symposium on VLSI Technology and Circuits）の報告 <br>IMW（IEEE International Memory Workshop）の報告 |
-| 2025/9 | CXL上のGPUやメモリーをプロビジョンするソリューション [LIQID](https://www.liqid.com/) の紹介 |
+| 2025/9 | CXL上のGPUやメモリーをプロビジョンするソリューション LIQIDの紹介 |
 | 2025/8 | 夏季休業に伴う非開催 |
 | 2025/7 | Pure Storage社 FlashArray製品の内部動作について（Part 3） |
 | 2025/6 | Pure Storage社 FlashArray製品の内部動作について（Part 2） |
-| 2025/5 | NANDフラッシュメモリの動作原理概要（Part 2）<br>[Pure Storage社](https://www.everpuredata.com/) FlashArray製品の内部動作について（Part 1） |
+| 2025/5 | NANDフラッシュメモリの動作原理概要（Part 2）<br>Pure Storage社FlashArray製品の内部動作について（Part 1） |
 | 2025/4 | NANDフラッシュメモリの動作原理概要（Part 1） |
 
 ### こんな方におすすめです
