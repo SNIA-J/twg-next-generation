@@ -32,8 +32,8 @@
 
 | 開催月 | テーマ |
 | :-- | :-- |
-| 2026/11 | KubeCon+CloudNativeCon Japan 2026 |
-| 2026/10 | FMS(the Future of Memory and Storage) |
+| 2026/11 | KubeCon+CloudNativeCon Japan 2026 の報告 |
+| 2026/10 | FMS(the Future of Memory and Storage) の報告|
 | 2026/9 | Revisiting Memory Swapping for Big-Memory Applications |
 | 2026/8 | 夏季休業に伴う非開催 |
 | 2026/7 | VLSI（Symposium on VLSI Technology and Circuits）の報告 <br>IMW（IEEE International Memory Workshop）の報告 |
